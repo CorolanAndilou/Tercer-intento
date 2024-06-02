@@ -1,0 +1,48 @@
+.background-base {
+    background-color: #c6bbb9;
+}
+
+header {
+    background-color: #7a748c;
+}
+
+footer {
+    background-color: #7a748c;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+option {
+    background-color: #c6bbb9;
+}
+
+.fs-4 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.display-5 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.lead {
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-body-secondary {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.warnings {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}
+
+/* formulario */
+
